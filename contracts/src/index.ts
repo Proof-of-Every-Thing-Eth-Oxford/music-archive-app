@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { MusicArchiveApp } from './MusicArchiveApp.js';
 
-export { Add };
+export { MusicArchiveApp };
